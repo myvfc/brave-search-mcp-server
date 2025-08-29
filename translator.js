@@ -1,3 +1,4 @@
+// Updated for deployment
 // Simple translator between REST API and MCP SSE
 const express = require('express');
 const fetch = require('node-fetch');
